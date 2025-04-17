@@ -1,6 +1,4 @@
-package Operator.Exam;
-
-import java.util.Scanner;
+package Lesson3.Exam;
 
 public class Integer20 {
     public static void main(String[] args) {

@@ -1,4 +1,4 @@
-package Operator.Exam;
+package Lesson3.Exam;
 
 import java.util.Scanner;
 

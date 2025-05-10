@@ -1,4 +1,4 @@
-package Lesson7.Shape;
+package Lesson7_8.Shape;
 
 import java.util.Scanner;
 

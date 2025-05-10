@@ -12,6 +12,8 @@ public class Main {
         HinhVuong hinhVuong = new HinhVuong();
         HinhTron hinhTron = new HinhTron();
 
+        System.out.println("=================");
+        System.out.println("** Hinh Chu nhat");
         hinhChuNhat.NhapChieuDai();
         hinhChuNhat.NhapChieuRong();
         hinhChuNhat.TinhChuVi();
@@ -19,7 +21,34 @@ public class Main {
 
         hinhChuNhat.inChuvi();
         hinhChuNhat.inDienTich();
-        hinhChuNhat.inTheTich();
 
+        System.out.println("=================");
+        System.out.println("** Hinh Vuong");
+        hinhVuong.NhapCanh();
+        hinhVuong.TinhChuVi();
+        hinhVuong.TinhDienTich();
+
+        hinhVuong.inChuvi();
+        hinhVuong.inDienTich();
+
+        System.out.println("=================");
+        System.out.println("** Hinh Tron");
+        hinhTron.NhapBanKinh();
+        hinhTron.TinhChuVi();
+        hinhTron.TinhDienTich();
+
+        hinhTron.inChuvi();
+        hinhTron.inDienTich();
+
+        System.out.println("=================");
+        System.out.println("** Hinh Tru");
+        hinhTru.NhapChieuCao();
+        hinhTru.TinhChuVi();
+        hinhTru.TinhDienTich();
+        hinhTru.TinhDienTich();
+
+        hinhTru.inChuvi();
+        hinhTru.inDienTich();
+        hinhTru.inTheTich();
     }
 }

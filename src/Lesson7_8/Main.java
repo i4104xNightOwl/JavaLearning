@@ -19,6 +19,7 @@ public class Main {
         hinhChuNhat.TinhChuVi();
         hinhChuNhat.TinhDienTich();
 
+        hinhChuNhat.xuatTen();
         hinhChuNhat.inChuvi();
         hinhChuNhat.inDienTich();
 
@@ -28,6 +29,7 @@ public class Main {
         hinhVuong.TinhChuVi();
         hinhVuong.TinhDienTich();
 
+        hinhVuong.xuatTen();
         hinhVuong.inChuvi();
         hinhVuong.inDienTich();
 
@@ -37,6 +39,7 @@ public class Main {
         hinhTron.TinhChuVi();
         hinhTron.TinhDienTich();
 
+        hinhTron.xuatTen();
         hinhTron.inChuvi();
         hinhTron.inDienTich();
 
@@ -45,8 +48,9 @@ public class Main {
         hinhTru.NhapChieuCao();
         hinhTru.TinhChuVi();
         hinhTru.TinhDienTich();
-        hinhTru.TinhDienTich();
+        hinhTru.TinhTheTich();
 
+        hinhTru.xuatTen();
         hinhTru.inChuvi();
         hinhTru.inDienTich();
         hinhTru.inTheTich();

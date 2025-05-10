@@ -1,4 +1,4 @@
-package Lession6.Object;
+package Lesson6.Object;
 
 public class Student {
     public String name;

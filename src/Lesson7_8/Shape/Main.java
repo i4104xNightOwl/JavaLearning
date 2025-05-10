@@ -1,9 +1,4 @@
-package Lesson7_8;
-
-import Lesson7_8.Shape.HinhChuNhat;
-import Lesson7_8.Shape.HinhTron;
-import Lesson7_8.Shape.HinhTru;
-import Lesson7_8.Shape.HinhVuong;
+package Lesson7_8.Shape;
 
 public class Main {
     public static void main(String[] args) {

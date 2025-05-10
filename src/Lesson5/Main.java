@@ -1,7 +1,7 @@
-package Lession5;
+package Lesson5;
 
-import Lession5.Shape.Circle;
-import Lession5.Utils.ToaDo;
+import Lesson5.Shape.Circle;
+import Lesson5.Utils.ToaDo;
 
 import java.util.Scanner;
 

@@ -1,6 +1,6 @@
-package Lession6;
+package Lesson6;
 
-import Lession6.Object.Student;
+import Lesson6.Object.Student;
 
 import java.util.Scanner;
 

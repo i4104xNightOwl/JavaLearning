@@ -1,6 +1,6 @@
-package Lession5.Shape;
+package Lesson5.Shape;
 
-import Lession5.Utils.ToaDo;
+import Lesson5.Utils.ToaDo;
 
 import java.util.Scanner;
 

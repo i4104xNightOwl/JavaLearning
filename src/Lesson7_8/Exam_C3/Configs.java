@@ -1,4 +1,4 @@
-package Lesson7_8.ThucHanh;
+package Lesson7_8.Exam_C3;
 
 public class Configs {
     public static final int NHAN_VIEN_SEP = 1;

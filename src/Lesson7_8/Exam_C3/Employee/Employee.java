@@ -1,4 +1,4 @@
-package Lesson7_8.ThucHanh.Employee;
+package Lesson7_8.Exam_C3.Employee;
 
 public class Employee {
     protected String ten;

@@ -1,6 +1,6 @@
-package Lesson7_8.ThucHanh.Employee;
+package Lesson7_8.Exam_C3.Employee;
 
-import Lesson7_8.ThucHanh.Configs;
+import Lesson7_8.Exam_C3.Configs;
 
 public class FullTime extends Employee {
     private int ngayLamThem;

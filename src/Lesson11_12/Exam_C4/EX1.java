@@ -28,7 +28,7 @@ public class EX1 {
         ArrayList<Integer> filter = new ArrayList<>();
         for (int item : list) if (item != x) filter.add(item);
 
-        filter.sort(null);
+        filter.sort((o1, o2) -> o2 - o1);
         System.out.println(filter);
     }
 }

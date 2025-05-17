@@ -1,4 +1,4 @@
-package Lesson3.Exam;
+package Lesson3.Exam_C2;
 
 import java.util.Scanner;
 
